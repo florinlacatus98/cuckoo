@@ -1,4 +1,4 @@
-Cuck(at)oo Cycle
+
 ================
 
 [Blog article explaining Cuckoo Cycle](http://cryptorials.io/beyond-hashcash-proof-work-theres-mining-hashing)
